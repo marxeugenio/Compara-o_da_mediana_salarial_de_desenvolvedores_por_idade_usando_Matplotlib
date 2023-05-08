@@ -1,4 +1,4 @@
-# Compara-o_da_mediana_salarial_de_desenvolvedores_por_idade_usando_Matplotlib
+# Comparação da mediana salarial de desenvolvedores por idade usando Matplotlib
 
 Este código cria um gráfico de linhas usando a biblioteca Matplotlib, onde os valores da mediana salarial em dólares são plotados em função da idade para três grupos
 diferentes de desenvolvedores: Python, JavaScript e todos os desenvolvedores. O gráfico é estilizado com uma paleta de cores e estilos diferentes para cada linha, além 
